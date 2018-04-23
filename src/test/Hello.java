@@ -7,5 +7,6 @@ public class Hello {
 		System.out.println("My name is mufeng");
 		//添加一行
 		System.out.println("my name is kongfang");
+		System.out.println("0424");
 	}
 }
