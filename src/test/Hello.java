@@ -8,5 +8,6 @@ public class Hello {
 		//添加一行
 		System.out.println("my name is kongfang");
 		System.out.println("0424");
+		System.out.println("1010");
 	}
 }
